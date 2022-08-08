@@ -4,6 +4,7 @@
   "main": "src/index.js",
   "license": "Unlicense",
   "dependencies": {
+    "@prisma/client": "^4.1.1",
     "@twurple/api": "^5.2.0",
     "@twurple/auth": "^5.2.0",
     "@twurple/chat": "^5.2.0",
